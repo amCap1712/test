@@ -1,9 +1,10 @@
 {
-  "common": {
-    "account-levels": {
-      "free": "Gratis",
-      "special-free": "Komplimentär",
-      "special-tpi": "staffer"
+    "common": {
+        "account-levels": {
+            "free": "Gratis",
+            "special-free": "Komplimentär",
+            "special-tpi": "staffer",
+            "patreon-demon": "Dämonenstufe"
+        }
     }
-  }
 }
