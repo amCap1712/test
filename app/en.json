@@ -29,7 +29,7 @@
       },
       "difficulty": {
         "label": "Difficulty",
-        "title": "The expected experience level of the players in this game session",
+        "title": "The experience level of the players in this game session",
         "value_0": "Average",
         "value_1": "Veteran",
         "value_2": "Beginner"
